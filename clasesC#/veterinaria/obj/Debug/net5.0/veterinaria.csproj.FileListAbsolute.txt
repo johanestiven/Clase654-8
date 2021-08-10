@@ -1,0 +1,16 @@
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\veterinaria.exe
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\veterinaria.deps.json
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\veterinaria.runtimeconfig.json
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\veterinaria.runtimeconfig.dev.json
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\veterinaria.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\ref\veterinaria.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\bin\Debug\net5.0\veterinaria.pdb
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.csproj.AssemblyReference.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.AssemblyInfoInputs.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.AssemblyInfo.cs
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\ref\veterinaria.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.pdb
+C:\Users\Video\Documents\Proyectos\clasesC#\veterinaria\obj\Debug\net5.0\veterinaria.genruntimeconfig.cache

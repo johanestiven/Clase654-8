@@ -1,0 +1,16 @@
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\Examen.exe
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\Examen.deps.json
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\Examen.runtimeconfig.json
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\Examen.runtimeconfig.dev.json
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\Examen.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\ref\Examen.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\bin\Debug\net5.0\Examen.pdb
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.csproj.AssemblyReference.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.AssemblyInfoInputs.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.AssemblyInfo.cs
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\ref\Examen.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.pdb
+C:\Users\Video\Documents\Proyectos\clasesC#\Examen\obj\Debug\net5.0\Examen.genruntimeconfig.cache

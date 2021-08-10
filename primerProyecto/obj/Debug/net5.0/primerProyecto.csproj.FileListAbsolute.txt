@@ -1,0 +1,16 @@
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\primerProyecto.exe
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\primerProyecto.deps.json
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\primerProyecto.runtimeconfig.json
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\primerProyecto.runtimeconfig.dev.json
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\primerProyecto.dll
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\ref\primerProyecto.dll
+C:\Users\Video\Documents\Proyectos\primerProyecto\bin\Debug\net5.0\primerProyecto.pdb
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.csproj.AssemblyReference.cache
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.AssemblyInfoInputs.cache
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.AssemblyInfo.cs
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.dll
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\ref\primerProyecto.dll
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.pdb
+C:\Users\Video\Documents\Proyectos\primerProyecto\obj\Debug\net5.0\primerProyecto.genruntimeconfig.cache

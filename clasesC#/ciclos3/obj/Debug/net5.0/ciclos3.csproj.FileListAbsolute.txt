@@ -1,0 +1,16 @@
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ciclos3.exe
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ciclos3.deps.json
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ciclos3.runtimeconfig.json
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ciclos3.runtimeconfig.dev.json
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ciclos3.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ref\ciclos3.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\bin\Debug\net5.0\ciclos3.pdb
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.csproj.AssemblyReference.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.AssemblyInfoInputs.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.AssemblyInfo.cs
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.csproj.CoreCompileInputs.cache
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ref\ciclos3.dll
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.pdb
+C:\Users\Video\Documents\Proyectos\clasesC#\ciclos3\obj\Debug\net5.0\ciclos3.genruntimeconfig.cache
